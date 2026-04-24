@@ -1,4 +1,0 @@
-interface:
-  display_name: "Slay the Spire 2 Modding"
-  short_description: "Build C# DLL mods for STS2"
-  default_prompt: "Use $slay-the-spire-2-mod to create or modify a Slay the Spire 2 C# DLL mod."
